@@ -87,3 +87,5 @@ print(yndlingsforfatter)
 kopi = yndlingsforfatter [:]
 kopi.append("Dostojevski")
 print(kopi)
+
+#ny kommentar
